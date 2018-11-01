@@ -1,4 +1,4 @@
-# Vue-Element-mc
+# Vue-Element-pure
 
 > 一个基于 vue2 + ElementUi2 + vuex3 的前端web基础框架
 

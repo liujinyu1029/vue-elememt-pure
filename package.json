@@ -1,5 +1,5 @@
 {
-  "name": "vue-element-mc",
+  "name": "vue-element-pure",
   "version": "1.0.0",
   "description": "这里写项目描述",
   "author": "liujinyu <13581642285@163.com>",
@@ -13,7 +13,7 @@
     "axios": "^0.18.0",
     "css-loader": "^0.28.11",
     "element-ui": "^2.3.4",
-    "jquery": "^2.2.4",
+    "jquery": "^3.0.0",
     "node-sass": "^4.8.3",
     "sass-loader": "^7.0.1",
     "vue": "^2.5.2",
