@@ -46,7 +46,7 @@
     },
     data(){
       return{
-        projectName:"Vue-Element-pure",
+        projectName:"Vue-Element-mc",
         citySearchInput:'',
         cityList:[],
       }

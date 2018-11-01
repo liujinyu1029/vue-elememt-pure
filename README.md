@@ -6,9 +6,9 @@
 npm install
 npm start
 
-### 打包发布线上版本
+# 打包发布线上版本
 npm run build
 
-### 在/config/dev.en.js中修改
+在/config/dev.en.js中修改
 1、本地服务假域名（host）
-2、api接口的地址头
+2、api数据接口的地址头
